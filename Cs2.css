@@ -12,7 +12,7 @@
 body {
     width: 100%;
     position: relative;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)), url('../Images/cl8.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)), url('cl8.jpg');
     background-position: center;
     background-size: cover;
 }
