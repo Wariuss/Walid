@@ -20,7 +20,7 @@ body {
 /* Logo  */
 .logo {
     /* text-transform: uppercase; */
-    font-size: 3em;
+    font-size: 2.5vw;
     color: #fff;
     -webkit-text-stroke: 1px black;
     /* width and color */
@@ -36,7 +36,7 @@ body {
 
 /* Navigation */
 li, a {
-    font-size: 1em;
+    font-size: 1vw;
     font-weight: 600;
     color: white;
     text-decoration: none;
@@ -321,6 +321,8 @@ header {
     transform: translateY(-1px) scale(1.1);
 }
 
+/* social side bar */
+
 .social-2 {
     top: 50%;
     left: 0%;
@@ -332,13 +334,13 @@ header {
     padding: initial;
 }
 
-.social-2 ul li{
+.social-2 ul li {
     list-style-type: none;
-    font-size: 22px;
-    height: 50px;
-    width: 50px;
-    padding-left:15px;
-    padding-top: 9px;
+    font-size: 1vw;
+    height: 2.5vw;
+    width: 2.5vw;
+    padding-left: 0.8vw;
+    padding-top: 0.5vw;
     margin-top: 7px;
     /* background-color: rgba(255, 255, 255, 0.438); */
     color: white;
