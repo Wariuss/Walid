@@ -150,7 +150,7 @@ header {
 }
 
 .sec1 h2 {
-    font-size: 4em;
+    font-size: 3vw;
     letter-spacing: 2px;
 }
 
@@ -158,8 +158,8 @@ header {
     -webkit-text-stroke: 2px black;
     /* width and color */
     color: gold;
-    font-size: 10em;
-    letter-spacing: 2px;
+    font-size: 8vw;
+    letter-spacing: 0.1vw;
 }
 
 .sec1 h1 span {
@@ -168,7 +168,7 @@ header {
 
 .sec1 p {
     margin: 10px 0 40px;
-    font-size: 18px;
+    font-size: 1vw;
     font-weight: 400;
 }
 
@@ -178,7 +178,7 @@ header {
     border: 2px solid gold;
     border-radius: 25px;
     padding: 10px 25px;
-    font-size: 1em;
+    font-size: 0.8vw;
     background: transparent;
     position: relative;
     cursor: pointer;
